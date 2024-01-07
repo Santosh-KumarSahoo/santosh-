@@ -1,7 +1,7 @@
 <h1 align="center">Hey There 👋, I'm Santosh Kumar Sahoo</h1>
 <h3 align="center">👾🚀 "I'm a passionate Full Stack Web Developer with a knack for crafting innovative digital solutions. 🕸️🎯 I'm dedicated to creating seamless and visually engaging web applications. 💻📖 My journey in the tech world has equipped me with expertise in JavaScript, React, Node.js, and a variety of databases. ☺️🚨 My experience includes developing robust e-commerce platforms, dynamic web applications, and optimizing website performance for enhanced user experiences. 🤝I'm excited to be a part of the tech community and to contribute to creating the digital future."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-kumarsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-kumarsahoo" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-kumarsahoo" alt="santosh-kumarsahoo" /></a> </p>
 
